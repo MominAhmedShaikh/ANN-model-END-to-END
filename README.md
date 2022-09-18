@@ -8,7 +8,7 @@ My gaol was to build a full fledge sequencial model from Data preprocessing to m
 In future we will add more methods, findings and techniques to build more optimized ANN model.
 
 - Dataset - [Link](https://github.com/MominAhmedShaikh/Artificial-neural-netwrok-ANN-/tree/main/dataset)
-- Python Code - [Link](https://pages.github.com/)
+- Python Code - [Link](https://github.com/MominAhmedShaikh/Artificial-neural-netwrok-ANN-/blob/main/ANN_model.ipynb)
 ## Required Installations
 
 
@@ -18,18 +18,9 @@ In future we will add more methods, findings and techniques to build more optimi
   !pip install -U scikeras -q     # Gridsearch for optimal epochs, batch size and much more
 ```
     
+## Map
 
-
-## Metrics on imbalanced distribution of values
-
-
-| Metric / Model| Baseline Model | Reduced Model | L2 Regularized model | Dropout Layers Model | Combined Model |
-| --------------| ---------------| ------------  | --------------------| -----------------    |------------- |
-| Accuracy      |0.69            |0.70           | 0.72                 | 0.67                 | 0.71           |
-|Precision_score|0.68            |0.69           | 0.73                 | 0.67                 | 0.72           |
-|Recall_score   |0.71            |0.71           | 0.69                 | 0.69                 | 0.69           |
-
-
+add image link here!!
 
 
 ## Models made
@@ -66,10 +57,26 @@ Number of epochs:
 
 Batch size: 20
 
+
+
+
+## Metrics on imbalanced distribution of values
+
+
+| Metric / Model| Baseline Model | Reduced Model | L2 Regularized model | Dropout Layers Model | Combined Model |
+| --------------| ---------------| ------------  | --------------------| -----------------    |------------- |
+| Accuracy      |0.69            |0.70           | 0.72                 | 0.67                 | 0.71           |
+|Precision_score|0.68            |0.69           | 0.73                 | 0.67                 | 0.72           |
+|Recall_score   |0.71            |0.71           | 0.69                 | 0.69                 | 0.69           |
+
+
+
+
 ## Notebook link
 It is highly recommended to open in notebook in google colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MominAhmedShaikh/Artificial-neural-netwrok-ANN-/blob/main/ANN_model.ipynb)
+
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momin-ahmed-shaikh/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iammomin139)
