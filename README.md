@@ -52,7 +52,7 @@ In future we will add more methods, findings and techniques to build more optimi
 
 The combination of the Rectifier and Sigmoid activation functions is quite popular and this exact combination will be used in this model as well, Given that the output variable is binary we use cost function Binary Cross Entroopy. Following topics and technical are covered in the paper and in the rest of the files:
 
-Activation function for Hidden Layer: Rectifier
+Activation function for Hidden Layer: ReLU
 
 Activation function for Output Layer: Sigmoid
 
