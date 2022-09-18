@@ -24,7 +24,7 @@ In future we will add more methods, findings and techniques to build more optimi
 
 
 | Metric / Model| Baseline Model | Reduced Model | L2 Regularized model | Dropout Layers Model | Combined Model |
-| -------       | ---            | ---           | |----                | |-                   | |-             |
+| --------------| ---------------| ------------  | --------------------| -----------------    |------------- |
 | Accuracy      |0.69            |0.70           | 0.72                 | 0.67                 | 0.71           |
 |Precision_score|0.68            |0.69           | 0.73                 | 0.67                 | 0.72           |
 |Recall_score   |0.71            |0.71           | 0.69                 | 0.69                 | 0.69           |
