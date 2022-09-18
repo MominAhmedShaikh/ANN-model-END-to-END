@@ -20,10 +20,41 @@ In future we will add more methods, findings and techniques to build more optimi
     
 ## Roadmap
 
-- Additional browser support
 
-- Add more integrations
 
+## Models made
+
+- Base model - Random Paramters Utilized
+
+- Reduced model - No. of Neurons Reduced
+
+- Regularized model - Added L2 Regularizer
+
+- Dropout model - With Dropout Layers
+
+- Combined model - Combined Base model with L2 Regularizer, Added Dropout Layers.
+
+- Tuner model - Build with kerastuner library
+
+
+
+## Model setting
+
+The combination of the Rectifier and Sigmoid activation functions is quite popular and this exact combination will be used in this model as well, Given that the output variable is binary we use cost function Binary Cross Entroopy. Following topics and technical are covered in the paper and in the rest of the files:
+
+Activation function for Hidden Layer: Rectifier
+
+Activation function for Output Layer: Sigmoid
+
+Optimization method: Adam Optimizer
+
+Cost function: Binary Cross Entropy
+
+Number of epochs: 
+ - Base 100 without EarlyStopping
+ - 10 - 20 with EarlyStopping
+
+Batch size: 20
 
 ## Notebook link
 It is highly recommended to open in notebook in google colab
