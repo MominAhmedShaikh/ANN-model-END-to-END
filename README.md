@@ -18,11 +18,6 @@ In future we will add more methods, findings and techniques to build more optimi
   !pip install -U scikeras -q     # Gridsearch for optimal epochs, batch size and much more
 ```
     
-## Map
-
-add image link here!!
-
-
 ## Models made
 
 - Base model - Random Paramters Utilized
@@ -91,3 +86,4 @@ It is highly recommended to open in notebook in google colab
 
 If you have any feedback, please reach out to us at mominahmedshaikh@gmail.com
 
+<img width="342" alt="BlankMap 3@2x" src="https://user-images.githubusercontent.com/105166921/190937526-2f468295-19f9-4e6b-b29d-8232ae4177c9.png">
