@@ -3,7 +3,7 @@
 
 In this Binary Classification, we predict the Status of candidate being selected (1) or not (0) after interview process based on various factors. In order to learn about selection features we will make use of one pf the Deep Learning techniques, the Artificial Neural Networks (ANN).From the millions of interview records we have randomly selected around 10K samples. Moreover, we will use popular Python libraries such as Tensorflow, Kerastuner, imblear and Machine Learning techniques such as Adam Optimizer to train the ANN model and predict the Status.
 
-My gaol was to build a full fledge sequencial model from Data preprocessing to model building with hyperparameters tuning and evaluating the model with required metrics.
+My goal was to build a full fledge sequencial model from Data preprocessing to model building with hyperparameters tuning and evaluating the model with required metrics.
 
 In future we will add more methods, findings and techniques to build more optimized ANN model.
 
