@@ -52,6 +52,10 @@ Number of epochs:
 
 Batch size: 20
 
+## ETL diagram
+
+<img width="342" alt="BlankMap 3@2x" src="https://user-images.githubusercontent.com/105166921/190937526-2f468295-19f9-4e6b-b29d-8232ae4177c9.png">
+
 
 
 
@@ -85,5 +89,3 @@ It is highly recommended to open in notebook in google colab
 ## Feedback
 
 If you have any feedback, please reach out to us at mominahmedshaikh@gmail.com
-
-<img width="342" alt="BlankMap 3@2x" src="https://user-images.githubusercontent.com/105166921/190937526-2f468295-19f9-4e6b-b29d-8232ae4177c9.png">
