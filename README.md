@@ -52,7 +52,7 @@ Number of epochs:
 
 Batch size: 20
 
-## ETL diagram
+## ER diagram
 
 <img width="342" alt="BlankMap 3@2x" src="https://user-images.githubusercontent.com/105166921/190937526-2f468295-19f9-4e6b-b29d-8232ae4177c9.png">
 
